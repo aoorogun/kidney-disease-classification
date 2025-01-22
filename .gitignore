@@ -1,0 +1,17 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore virtual environment folder
+venv/
+kidney/
+
+# Ignore environment variables file (optional)
+.env
+
+# Ignore VS Code workspace settings
+.vscode/
+
+# Ignore mypy and other type checking tools' files
+.mypy_cache/

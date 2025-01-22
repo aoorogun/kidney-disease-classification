@@ -20,7 +20,7 @@ list_of_files = [
     "dvc.yaml",
     "params.yaml",
     "setup.py",
-    "requiremnets.txt",
+    "requirements.txt",
     "research/trials.ipynb",
     "templates/index.html"
 

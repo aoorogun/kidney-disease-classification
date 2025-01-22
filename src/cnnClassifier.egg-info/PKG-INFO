@@ -1,0 +1,16 @@
+Metadata-Version: 2.2
+Name: cnnClassifier
+Version: 0.0.0
+Summary: Small python package for CNN app
+Home-page: https://github.com/aare_adebola/kidney-disease-classification
+Author: aare_adebola
+Author-email: info@oaorgun.co.uk
+Project-URL: Bug Tracker, https://github.com/aare_adebola/kidney-disease-classification/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# kidney-disease-classification
