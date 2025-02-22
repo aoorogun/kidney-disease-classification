@@ -6,6 +6,7 @@ __pycache__/
 # Ignore virtual environment folder
 venv/
 kidney/
+env/
 
 # Ignore environment variables file (optional)
 .env
